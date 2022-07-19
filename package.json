@@ -16,7 +16,7 @@
     "bootstrap-vue": "^2.22.0",
     "keycloak-js": "^10.0.2",
     "meteor-node-stubs": "^1.2.3",
-    "moment": "^2.29.3",
+    "moment": "^2.29.4",
     "popper.js": "^1.16.1-lts",
     "vue": "^2.6.14",
     "vue-meteor-tracker": "^2.0.0-beta.5",
